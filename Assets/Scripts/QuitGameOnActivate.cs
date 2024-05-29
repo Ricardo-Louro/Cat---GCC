@@ -1,10 +1,11 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class QuitGameOnActivate : MonoBehaviour
 {
     // Start is called before the first frame update
     private void Start()
     {
-        Application.Quit();
+        SceneManager.LoadScene(0);
     }
 }

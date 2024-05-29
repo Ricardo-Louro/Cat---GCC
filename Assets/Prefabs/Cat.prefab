@@ -1217,7 +1217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9203690698664977801}
   - component: {fileID: 6285440020207323468}
-  - component: {fileID: 48935522990123284}
+  - component: {fileID: 2502307607360723488}
   m_Layer: 0
   m_Name: Cat
   m_TagString: Untagged
@@ -1269,8 +1269,8 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 80
   m_CollisionDetection: 0
---- !u!136 &48935522990123284
-CapsuleCollider:
+--- !u!65 &2502307607360723488
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1287,11 +1287,9 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 1.6507423
-  m_Height: 5.3309627
-  m_Direction: 2
-  m_Center: {x: 0.008461356, y: 1.6607654, z: 0.0005657673}
+  serializedVersion: 3
+  m_Size: {x: 1.8493929, y: 3.3661666, z: 4.2645726}
+  m_Center: {x: 0, y: 1.6516774, z: 0.27509743}
 --- !u!1 &8698724580275499998
 GameObject:
   m_ObjectHideFlags: 0
