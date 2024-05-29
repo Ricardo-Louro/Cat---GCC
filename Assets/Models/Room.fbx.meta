@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 1a86b58fe1798b04c8a0be4323a205f0
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2316629813124a
+    second: {fileID: 2800000, guid: 26b03b023e8092a40953b2826b0a2f3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3-3
+    second: {fileID: 2800000, guid: df842727686eb5140b5bee589d4bf378, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3-4
+    second: {fileID: 2800000, guid: a402d4ff690f3144fad06ecdbf0447a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "43806 \u526F\u672C2daaadaaaaaca1"
+    second: {fileID: 2800000, guid: 24b54fca71d50ef40ac6d964b4f50d59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8945635
+    second: {fileID: 2800000, guid: 8f0d59c00e713944d87b19d8f2c412b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Arch30_towelbump5
+    second: {fileID: 2800000, guid: b1b950efd5391c147a8951798644b916, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Archmodels59_ cloth_026q211
+    second: {fileID: 2800000, guid: 05d37e60159f7d14dbc95dbb3cc2f272, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: B4545455
+    second: {fileID: 2800000, guid: c3ff231c24f1686439a6d7c376709314, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C1
+    second: {fileID: 2800000, guid: 5b4c43167ac366e4aaff2942e7a16361, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: H3389_ST24
+    second: {fileID: 2800000, guid: f9a7242c5b9b0474caf58c734af3ecfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "QQ\u622A\u56FE20141124152138"
+    second: {fileID: 2800000, guid: 6a05ea545a10e714b97167beae9fc0f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Color03
+    second: {fileID: 2800000, guid: aef33090d26fd7e48a4bbf58392007a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: am83_037_bump_01
+    second: {fileID: 2800000, guid: 04addbc470ef9c74190829204df99602, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: am83_037_color_01
+    second: {fileID: 2800000, guid: a9ba638cd8656bc47afc31f11d113913, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: arch24_leaf-01b
+    second: {fileID: 2800000, guid: e8307ab1380de234cab6eac75f8b8da3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: arch25_fabric_Gbump
+    second: {fileID: 2800000, guid: c6648ebb8c94f934f9d0704b95e20b88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: buaaaaaaa11
+    second: {fileID: 2800000, guid: 0e4044e300919d14e9ad6b642208d964, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: mm1
+    second: {fileID: 2800000, guid: 1fb4b323b52c8004fadc9e4dc53da493, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "mu-\u6DF1\u80E1\u6843\u67281a221"
+    second: {fileID: 2800000, guid: 4fce67e2c0e4f5c438c80aab827d317f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: u=3414380112,1906438982&fm=21&gp=0
+    second: {fileID: 2800000, guid: 2c1c0b0095edc384e8fa8a8ade2ef7f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u4E662"
+    second: {fileID: 2800000, guid: 1b36c35c4ea4b504b89bdfea9db64f8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u4E665"
+    second: {fileID: 2800000, guid: af98ec54500888a4b994cbe1141d1c83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u5367\u5BA4\u5730\u6BEF"
+    second: {fileID: 2800000, guid: 59ee912124ca91b46be804e16d662be4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u6761\u6761\u5899\u7EB801"
+    second: {fileID: 2800000, guid: 9facc56d89de27d4eabec3a84b7e8437, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u771F\u76AEA-00512e1"
+    second: {fileID: 2800000, guid: 885cf1185da269649ae4e4c155cdada0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u7ED2\u5E03-y000\u526F\u672C223"
+    second: {fileID: 2800000, guid: 2355c673c7df54f4a9b79c11bab1c7a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u7ED2\u5E03-y000\u526F\u672C2e"
+    second: {fileID: 2800000, guid: 75d6f062307a1b6498d495fa45d629df, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
