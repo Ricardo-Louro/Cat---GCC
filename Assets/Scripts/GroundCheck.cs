@@ -7,14 +7,13 @@ public class GroundCheck : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        //Debug.Log("touched something: " + other.name);
         if((layerMask & (1 << other.gameObject.layer)) != 0)
         {
             playerMovement.grounded = true;
         }
         else
         {
-        //It touched something that isn't the ground
+            //It touched something that isn't the ground
         }
     }
 }
